@@ -145,7 +145,6 @@ const App=()=>{
                 No of digits : {noOdDigits}
             </div>
             <hr />
-
         </>        
     );
 }
